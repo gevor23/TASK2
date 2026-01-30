@@ -1,1 +1,2 @@
-I have major box, in the box there are smoll boxes, when you click on the them, become black 
+A large container box holds several smaller boxes. 
+Clicking on any smaller box changes its color to black.
